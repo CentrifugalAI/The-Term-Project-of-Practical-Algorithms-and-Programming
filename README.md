@@ -9,3 +9,4 @@
 - pdf&word 文件夹中存放的是markdown文件的pdf/word版本
 
 ## final_project 文件夹用来存放期末考试论文
+- 其中包含一个code文件夹用来存放相关代码
